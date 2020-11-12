@@ -1,4 +1,4 @@
-### Ohoy! I'm Leo (aka Bragle)
+### Ohoy! I'm Leo (aka Bragle) 🐱‍💻
 
 I currently work at [Netlife](https://netlife.com), where I make cool stuff all day long.
 
