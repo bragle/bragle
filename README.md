@@ -1,6 +1,6 @@
 ### Ohoy! I'm Leo (aka Bragle) 🐱‍💻
 
-I currently work at [Netlife](https://netlife.com), where I make cool stuff all day long.
+I currently work at [Vev](https://vev.design), where I make cool stuff all day long.
 
 In my spare time, I work on [Yello.io](https://yello.io) and a bunch of other cool sites. You should check them out!
 
