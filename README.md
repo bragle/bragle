@@ -1,13 +1,11 @@
-### Ohoy! I'm Leo (aka Bragle) 🐱‍💻
+### Ohoy! I'm Leo 🐱‍💻
 
-I currently work at [Vev](https://vev.design), where I make cool stuff all day long.
-
-In my spare time, I work on [Yello.io](https://yello.io) and a bunch of other cool sites. You should check them out!
+I work on [Yello.io](https://yello.io) and a bunch of other cool sites. You should check them out!
 
 You can see some of the stuff I've contributed to in my pinned items.
 
-<img align="right" src="https://github.githubassets.com/images/mona-whisper.gif" width="20" height="20"/>
-
 ---
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=bragle&count_private=true&show_icons=true&hide_title=true&hide_border=true"/></p>
+<img align="right" src="https://github.githubassets.com/images/mona-whisper.gif" width="20" height="20"/>
+
+[![wakatime](https://wakatime.com/badge/user/82cd1440-31c4-4e98-a312-f0ae6a6f50d7.svg?style=for-the-badge)](https://wakatime.com/@82cd1440-31c4-4e98-a312-f0ae6a6f50d7)
