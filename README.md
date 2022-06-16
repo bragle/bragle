@@ -11,4 +11,4 @@ You can see some of the stuff I've contributed to in my pinned items.
 [![wakatime](https://wakatime.com/badge/user/82cd1440-31c4-4e98-a312-f0ae6a6f50d7.svg?style=for-the-badge)](https://wakatime.com/@82cd1440-31c4-4e98-a312-f0ae6a6f50d7)
 
 
-<sup>Picture is AI generated (disgruntled cat + Leonid Afremov's Misty mood)</sup>
+<sup>Picture is AI generated (disgruntled cat + Misty Mood by Leonid Afremov)</sup>
